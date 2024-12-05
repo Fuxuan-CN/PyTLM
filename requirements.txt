@@ -1,0 +1,2 @@
+pydantic
+msgpack # 未来可能会用到
